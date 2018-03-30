@@ -1,0 +1,591 @@
+>>> bang 20
+The Big Bang has occured!
+
+>>> list
+Star 0
+ coords: (58.000000,23.000000)
+Star 1
+ coords: (43.000000,7.000000)
+Star 2
+ coords: (52.000000,20.000000)
+Star 3
+ coords: (21.000000,22.000000)
+Star 4
+ coords: (27.000000,14.000000)
+Star 5
+ coords: (29.000000,17.000000)
+Star 6
+ coords: (12.000000,8.000000)
+Star 7
+ coords: (5.000000,28.000000)
+Star 8
+ coords: (20.000000,6.000000)
+Star 9
+ coords: (58.000000,0.000000)
+Star 10
+ coords: (38.000000,7.000000)
+Star 11
+ coords: (21.000000,24.000000)
+Star 12
+ coords: (30.000000,7.000000)
+Star 13
+ coords: (8.000000,13.000000)
+Star 14
+ coords: (29.000000,1.000000)
+Star 15
+ coords: (1.000000,3.000000)
+Star 16
+ coords: (48.000000,25.000000)
+Star 17
+ coords: (55.000000,29.000000)
+Star 18
+ coords: (18.000000,23.000000)
+Star 19
+ coords: (47.000000,28.000000)
+>>> draw
+                                                          .
+                             .
+
+ .
+
+
+                    .
+                              .       .    .
+            .
+
+
+
+
+        .
+                           .
+
+
+                             .
+
+
+                                                    .
+
+                     .
+                  .                                       .
+                     .
+                                                .
+
+
+     .                                         .
+                                                       .
+>>> name
+The closest pair of stars are no. 3 and 11.
+They are 2.000000 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Name One
+Enter your spouse full name: Name Two
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 16 and 19.
+They are 3.162278 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Hyacinth Bucket
+Enter your spouse full name: Richard Bucket
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 4 and 5.
+They are 3.605551 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Kenneth Cooley
+Enter your spouse full name: Martha Benson
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 1 and 10.
+They are 5.000000 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Winston Bryant
+Enter your spouse full name: Janene Wilde
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 12 and 14.
+They are 6.082763 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Earnest Hall
+Enter your spouse full name: Candace Parks
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 6 and 13.
+They are 6.403124 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: John Summers
+Enter your spouse full name: Dorothy Hester
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 0 and 2.
+They are 6.708204 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Carl Rogers
+Enter your spouse full name: Janet Mills
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 7 and 18.
+They are 13.928389 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Edwin Cooper
+Enter your spouse full name: Dora Franklin
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 8 and 15.
+They are 19.235384 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Thomas Kchin
+Enter your spouse full name: Rachel Williams
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+The closest pair of stars are no. 9 and 17.
+They are 29.154760 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Stephen Kuhn
+Enter your spouse full name: Judith Vinson
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> name
+Sorry no pairs were found!
+Wish you a better luck in the next universe
+
+>>> pairs
+Pair 0:
+distance: 6.708204
+star 0
+name: Carl Rogers
+coords: (58.000000,23.000000)
+star 2
+name: Janet Mills
+coords: (52.000000,20.000000)
+*********************************
+
+Pair 1:
+distance: 5.000000
+star 1
+name: Winston Bryant
+coords: (43.000000,7.000000)
+star 10
+name: Janene Wilde
+coords: (38.000000,7.000000)
+*********************************
+
+Pair 2:
+distance: 2.000000
+star 3
+name: Name One
+coords: (21.000000,22.000000)
+star 11
+name: Name Two
+coords: (21.000000,24.000000)
+*********************************
+
+Pair 3:
+distance: 3.605551
+star 4
+name: Kenneth Cooley
+coords: (27.000000,14.000000)
+star 5
+name: Martha Benson
+coords: (29.000000,17.000000)
+*********************************
+
+Pair 4:
+distance: 6.403124
+star 6
+name: John Summers
+coords: (12.000000,8.000000)
+star 13
+name: Dorothy Hester
+coords: (8.000000,13.000000)
+*********************************
+
+Pair 5:
+distance: 13.928389
+star 7
+name: Edwin Cooper
+coords: (5.000000,28.000000)
+star 18
+name: Dora Franklin
+coords: (18.000000,23.000000)
+*********************************
+
+Pair 6:
+distance: 19.235384
+star 8
+name: Thomas Kchin
+coords: (20.000000,6.000000)
+star 15
+name: Rachel Williams
+coords: (1.000000,3.000000)
+*********************************
+
+Pair 7:
+distance: 29.154760
+star 9
+name: Stephen Kuhn
+coords: (58.000000,0.000000)
+star 17
+name: Judith Vinson
+coords: (55.000000,29.000000)
+*********************************
+
+Pair 8:
+distance: 6.082763
+star 12
+name: Earnest Hall
+coords: (30.000000,7.000000)
+star 14
+name: Candace Parks
+coords: (29.000000,1.000000)
+*********************************
+
+Pair 9:
+distance: 3.162278
+star 16
+name: Hyacinth Bucket
+coords: (48.000000,25.000000)
+star 19
+name: Richard Bucket
+coords: (47.000000,28.000000)
+*********************************
+
+>>> show Name Two
+Enter your full name:
+                                                          *
+                             *
+
+ *
+
+
+                    *
+                              *       *    *
+            *
+
+
+
+
+        *
+                           *
+
+
+                             *
+
+
+                                                    *
+
+                     *
+                  *                                       *
+                     *
+            Name Two & Name One                 *
+
+
+     *                                         *
+                                                       *
+>>> save
+Thanks, you have saved the universe!
+
+>>> bang 100
+The Big Bang has occured!
+
+>>> draw
+                    .                  .
+          .      .. .                                   .
+   .  .
+      .             .      .              .
+                                            .
+.          .   .             .                        .  .
+ .    .
+    .                   .
+             .              .  .      . .
+                 . .                   .          .     .
+                            .                         .
+             .                                   ..
+     .          . .                 .             .      .
+              .                              .         .
+                                             .
+                .         .             .
+  .  .             .            .   .   .
+                         .                     .
+
+         .        .                      .
+           .      .  .                                    ..
+              .  .                                . ..
+                                       .     .          .
+     .      .         .         .             .
+                   .
+                          .            .      .
+                        .             .               .
+ .      .                                       .
+                             .                      .
+        .      .              . .     ..            .
+>>> name
+The closest pair of stars are no. 11 and 82.
+They are 1.000000 light years apart.
+Would you like to name this pair (y/n)? y
+
+Enter your full name: Mr New
+Enter your spouse full name: Mrs New
+Congratulations, a pair of stars has been named after you and your spouse
+
+>>> pairs
+Pair 0:
+distance: 1.000000
+star 11
+name: Mr New
+coords: (39.000000,29.000000)
+star 82
+name: Mrs New
+coords: (38.000000,29.000000)
+*********************************
+
+>>> show Mr New
+Enter your full name:
+                    .                  .
+          .      .. .                                   .
+   .  .
+      .             .      .              .
+                                            .
+.          .   .             .                        .  .
+ .    .
+    .                   .
+             .              .  .      . .
+                 . .                   .          .     .
+                            .                         .
+             .                                   ..
+     .          . .                 .             .      .
+              .                              .         .
+                                             .
+                .         .             .
+  .  .             .            .   .   .
+                         .                     .
+
+         .        .                      .
+           .      .  .                                    ..
+              .  .                                . ..
+                                       .     .          .
+     .      .         .         .             .
+                   .
+                          .            .      .
+                        .             .               .
+ .      .                                       .
+                             . Mr New & Mrs New     .
+        .      .              . .     **            .
+>>> load
+Congratulations, your saved universe was restored!
+
+>>> draw
+                                                          *
+                             *
+
+ *
+
+
+                    *
+                              *       *    *
+            *
+
+
+
+
+        *
+                           *
+
+
+                             *
+
+
+                                                    *
+
+                     *
+                  *                                       *
+                     *
+                                                *
+
+
+     *                                         *
+                                                       *
+>>> list
+Star 0
+ coords: (58.000000,23.000000)
+ name: Carl Rogers
+Star 1
+ coords: (43.000000,7.000000)
+ name: Winston Bryant
+Star 2
+ coords: (52.000000,20.000000)
+ name: Janet Mills
+Star 3
+ coords: (21.000000,22.000000)
+ name: Name One
+Star 4
+ coords: (27.000000,14.000000)
+ name: Kenneth Cooley
+Star 5
+ coords: (29.000000,17.000000)
+ name: Martha Benson
+Star 6
+ coords: (12.000000,8.000000)
+ name: John Summers
+Star 7
+ coords: (5.000000,28.000000)
+ name: Edwin Cooper
+Star 8
+ coords: (20.000000,6.000000)
+ name: Thomas Kchin
+Star 9
+ coords: (58.000000,0.000000)
+ name: Stephen Kuhn
+Star 10
+ coords: (38.000000,7.000000)
+ name: Janene Wilde
+Star 11
+ coords: (21.000000,24.000000)
+ name: Name Two
+Star 12
+ coords: (30.000000,7.000000)
+ name: Earnest Hall
+Star 13
+ coords: (8.000000,13.000000)
+ name: Dorothy Hester
+Star 14
+ coords: (29.000000,1.000000)
+ name: Candace Parks
+Star 15
+ coords: (1.000000,3.000000)
+ name: Rachel Williams
+Star 16
+ coords: (48.000000,25.000000)
+ name: Hyacinth Bucket
+Star 17
+ coords: (55.000000,29.000000)
+ name: Judith Vinson
+Star 18
+ coords: (18.000000,23.000000)
+ name: Dora Franklin
+Star 19
+ coords: (47.000000,28.000000)
+ name: Richard Bucket
+>>> pairs
+Pair 0:
+distance: 6.708204
+star 0
+name: Carl Rogers
+coords: (58.000000,23.000000)
+star 2
+name: Janet Mills
+coords: (52.000000,20.000000)
+*********************************
+
+Pair 1:
+distance: 5.000000
+star 1
+name: Winston Bryant
+coords: (43.000000,7.000000)
+star 10
+name: Janene Wilde
+coords: (38.000000,7.000000)
+*********************************
+
+Pair 2:
+distance: 2.000000
+star 3
+name: Name One
+coords: (21.000000,22.000000)
+star 11
+name: Name Two
+coords: (21.000000,24.000000)
+*********************************
+
+Pair 3:
+distance: 3.605551
+star 4
+name: Kenneth Cooley
+coords: (27.000000,14.000000)
+star 5
+name: Martha Benson
+coords: (29.000000,17.000000)
+*********************************
+
+Pair 4:
+distance: 6.403124
+star 6
+name: John Summers
+coords: (12.000000,8.000000)
+star 13
+name: Dorothy Hester
+coords: (8.000000,13.000000)
+*********************************
+
+Pair 5:
+distance: 13.928389
+star 7
+name: Edwin Cooper
+coords: (5.000000,28.000000)
+star 18
+name: Dora Franklin
+coords: (18.000000,23.000000)
+*********************************
+
+Pair 6:
+distance: 19.235384
+star 8
+name: Thomas Kchin
+coords: (20.000000,6.000000)
+star 15
+name: Rachel Williams
+coords: (1.000000,3.000000)
+*********************************
+
+Pair 7:
+distance: 29.154760
+star 9
+name: Stephen Kuhn
+coords: (58.000000,0.000000)
+star 17
+name: Judith Vinson
+coords: (55.000000,29.000000)
+*********************************
+
+Pair 8:
+distance: 6.082763
+star 12
+name: Earnest Hall
+coords: (30.000000,7.000000)
+star 14
+name: Candace Parks
+coords: (29.000000,1.000000)
+*********************************
+
+Pair 9:
+distance: 3.162278
+star 16
+name: Hyacinth Bucket
+coords: (48.000000,25.000000)
+star 19
+name: Richard Bucket
+coords: (47.000000,28.000000)
+*********************************
+
+>>> quit
+
+Process returned 0 (0x0)   execution time : 1.016 s
+Press any key to continue.

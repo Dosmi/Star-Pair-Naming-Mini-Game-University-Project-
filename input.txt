@@ -1,0 +1,60 @@
+bang 20
+list
+draw
+name
+y
+Name One
+Name Two
+name
+y
+Hyacinth Bucket
+Richard Bucket
+name
+y
+Kenneth Cooley
+Martha Benson
+name
+y
+Winston Bryant
+Janene Wilde
+name
+y
+Earnest Hall
+Candace Parks
+name
+y
+John Summers
+Dorothy Hester
+name
+y
+Carl Rogers
+Janet Mills
+name
+y
+Edwin Cooper
+Dora Franklin
+name
+y
+Thomas Kchin
+Rachel Williams
+name
+y
+Stephen Kuhn
+Judith Vinson
+name
+pairs
+show Name Two
+save
+bang 100
+draw
+name
+y
+Mr New
+Mrs New
+pairs
+show Mr New
+load
+draw
+list
+pairs
+quit
